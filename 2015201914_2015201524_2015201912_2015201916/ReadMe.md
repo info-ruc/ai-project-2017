@@ -3,6 +3,13 @@
 ###
 ## 展示报告：
 ### 第一次展示地址：https://github.com/KunlinY/AICar/tree/master/1st%20Presentation
+### 第二次展示地址：https://github.com/KunlinY/AICar/tree/master/2nd%20Presentation
+###
+## 目前实现功能
+### 随机游走
+### 利用超神波传感器识别并跟踪运动物体
+### 利用手机摄像头捉老鼠
+### 视频目标跟踪
 ###
 ## 展示图片：
 ### 小车正面
