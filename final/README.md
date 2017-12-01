@@ -1,6 +1,6 @@
 # Personal Final Report
 
-reports collected for ai class project @2017
+final reports collected for ai class project @2017
 
 
 # Personal Report Naming Convension 
